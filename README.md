@@ -9,4 +9,4 @@ Repository ini dibuat untuk mendokumentasikan pengembangan aplikasi **StudyMate*
 - [ ] Setup Git lokal / Akun GitHub
 - [ ] Buat repository GitHub
 - [ ] Commit pertama
-- [ ] Membuat struktur folder proyek
+- [ ] Membuat struktur folder proyek 
